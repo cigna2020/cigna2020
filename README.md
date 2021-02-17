@@ -1,1 +1,1 @@
-cigna2020
+https://cigna2020.github.io/rsschool-cv/cv
